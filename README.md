@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: Hà Tấn Minh
-* ID: BA12-126
+* Name: Vũ Ngọc Minh
+* ID: BA12-128
 * Group ID: 15
 * Project Name: Fitness Tracker Dashboard
